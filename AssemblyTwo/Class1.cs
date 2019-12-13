@@ -11,7 +11,7 @@ namespace AssemblyTwo
     {
         public void Test()
         {
-            AssemblyOneClassI instance = new AssemblyOneClassI();
+          //  AssemblyOneClassI instance = new AssemblyOneClassI();
             //Console.WriteLine(instance.ID);
         }
     }
